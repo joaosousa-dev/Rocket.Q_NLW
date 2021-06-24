@@ -1,0 +1,27 @@
+{
+  "name": "RocketQ",
+  "version": "1.0.0",
+  "description": "App desenvolvido para gerenciar perguntas anônimas de usúarios ",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvplays06/Rocket.Q_NLW.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jvplays06/Rocket.Q_NLW/issues"
+  },
+  "homepage": "https://github.com/jvplays06/Rocket.Q_NLW#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
